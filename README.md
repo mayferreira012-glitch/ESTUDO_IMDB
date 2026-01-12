@@ -31,7 +31,7 @@ O projeto foi desenvolvido com foco em portfólio, visando demonstrar habilidade
 
 5 - Interpretação dos resultados
 
-**Pontos mais relevantes encontrados**
+**Pontos mais relevantes encontrados na análise:**
 - Filmes de animação apresentam alto desempenho financeiro médio.
 - Dramas concentram maior número de premiações relevantes.
 - Orçamento elevado não garante, isoladamente, maior avaliação do público.
