@@ -1,6 +1,7 @@
 ## 📌 Projeto IMDB
 
 **Objetivo:**  
+
 Analisar dados de filmes utilizando a base do IMDb (Internet Movie Database), explorando diversas características para identificar padrões que contribuam para o entendimento do sucesso financeiro, reconhecimento da crítica e outras fatores.
 O projeto foi desenvolvido com foco em portfólio, visando demonstrar habilidades em análise exploratória, limpeza, tratamento, visualização e interpretação dos dados.
 
@@ -12,6 +13,7 @@ O projeto foi desenvolvido com foco em portfólio, visando demonstrar habilidade
 - Jupyter Notebook – Desenvolvimento e documentação das análises.
 
 **Principais etapas:**  
+
 1 - Extração e compreensão dos dados.
 
 2 - Limpeza e tratamento:
