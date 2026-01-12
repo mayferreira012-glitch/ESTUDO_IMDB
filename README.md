@@ -12,24 +12,24 @@ O projeto foi desenvolvido com foco em portfólio, visando demonstrar habilidade
 - Jupyter Notebook – Desenvolvimento e documentação das análises.
 
 **Principais etapas:**  
-1- Extração e compreensão dos dados.
+1 - Extração e compreensão dos dados.
 
-2- Limpeza e tratamento:
+2 - Limpeza e tratamento:
 - Remoção de valores nulos e inconsistentes;
 - Padronização de colunas;
 - Conversão de tipos (ex.: duração, orçamento).
 
-3- Análise Exploratória (EDA):
+3 - Análise Exploratória (EDA):
 - Distribuições;
 - Correlações;
 - Comparações por gênero e década.
 
-4- Visualização de dados
+4 - Visualização de dados
 - Gráficos de barras;
 - Séries temporais;
 - Correlações.
 
-5- Interpretação dos resultados
+5 - Interpretação dos resultados
 
 **Pontos mais relevantes encontrados**
 - Filmes de animação apresentam alto desempenho financeiro médio.
