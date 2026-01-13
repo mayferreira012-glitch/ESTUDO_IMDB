@@ -10,7 +10,7 @@ O projeto foi desenvolvido com foco em portfólio, visando demonstrar habilidade
 - Pandas – Manipulação e tratamento de dados.
 - NumPy – Operações numéricas.
 - Matplotlib / Seaborn – Visualização de dados.
-- Jupyter Notebook – Desenvolvimento e documentação das análises.
+- Colab Notebook – Desenvolvimento e documentação das análises.
 
 **Principais etapas:**  
 
