@@ -42,7 +42,7 @@ Fonte:
   
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Python
 - Pandas
@@ -53,7 +53,7 @@ Fonte:
 
 ---
 
-## 🔄 Fluxo do Projeto
+## Fluxo do Projeto
 
 ```mermaid
 flowchart LR
