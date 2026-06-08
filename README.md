@@ -1,4 +1,4 @@
-## 📌 Projeto IMDB
+## Projeto IMDB
 
 **Objetivo:**  
 
