@@ -153,25 +153,6 @@ Os maiores faturamentos médios foram observados em produções ligadas ao segme
 
 ---
 
-## Estrutura do Projeto
-
-```text
-IMDB-Movie-Analytics/
-│
-├── IMDB_estudo.ipynb
-├── data/
-│   └── imdb_dataset.csv
-│
-├── images/
-│   ├── rating_decadas.png
-│   ├── oscar_vs_budget.png
-│   └── faturamento_diretores.png
-│
-└── README.md
-```
-
----
-
 ## Como Executar
 
 ```bash
